@@ -8,5 +8,9 @@ package com.git.share.practice.controller;
  *
  */
 public class FirstController {
+	
+	public void firstMethod() {
+		System.out.println("first method");
+	}
 
 }
